@@ -1,0 +1,49 @@
+body{
+    background-color: #222222;
+}
+
+
+.menu{
+    background-color: orange;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+.menu .item,
+.menu .price{
+    font-family: 'Devonshire', cursive;
+    background-color: #ffffff;
+    color: black;
+    margin: 5px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    border: #000000 solid medium;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.menu .price,
+.menu .title{
+    text-align: center;
+}
+
+.menu .title{
+    font-size: 50px;
+    font-family: 'Cutive', serif;
+}
+
+.today {
+    font-size: 1.5em;
+}
+
+.logo{
+    margin-top: 20px;
+}
+h1{
+    /*margin-top: 50px;*/
+    /*margin: 15px;*/
+    /*font-size: 2em;*/
+    font-family: 'Cutive', serif;
+    color: #e1f5d1;
+}
+
